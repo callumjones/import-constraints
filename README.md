@@ -1,4 +1,3 @@
-
 #Replication package for "Import Constraints"
 
 by Diego Comin, Robert C. Johnson, and Callum Jones
